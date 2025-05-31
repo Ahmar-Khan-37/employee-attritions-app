@@ -204,8 +204,6 @@ if st.button("Predict Attrition"):
 # In[ ]:
 
 
-pip show streamlit
-
 
 # In[ ]:
 
