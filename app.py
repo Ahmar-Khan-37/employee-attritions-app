@@ -20,7 +20,7 @@ import streamlit as st
 # In[2]:
 
 
-data=pd.read_csv(r"F:\Internship\BiStartX\Datasets\HR Employee Attrition Datasets\HR Employee data.csv")
+data=pd.read_csv("HR Employee data.csv")
 
 
 # In[3]:
